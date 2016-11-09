@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-dev5 git notstashed
-=======
-dev5 to stash
->>>>>>> Stashed changes
+dev3
