@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dev2  masre
+=======
+dev2  branch dreuga rfrf
+>>>>>>> druga
